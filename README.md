@@ -1,11 +1,10 @@
 **General Multi-label Image Classification with Transformers**<br/>
 Jack Lanchantin, Tianlu Wang, Vicente Ordóñez Román, Yanjun Qi<br/>
-[arXiv preprint 2020](https://arxiv.org/abs/2011.14027)<br/>
+[Conference on Computer Vision and Pattern Recognition (CVPR) 2021](https://arxiv.org/abs/2011.14027)<br/>
 
 
 
-
-## Training and Running Models ##
+## Training and Running C-Tran ##
 
 Python version 3.7 is required and all major packages used and their versions are listed in `requirements.txt`.
 
