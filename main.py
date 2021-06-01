@@ -8,7 +8,7 @@ from config_args import get_args
 import utils.evaluate as evaluate
 import utils.logger as logger
 from pdb import set_trace as stop
-from utils.optim_schedule import WarmupLinearSchedule
+from optim_schedule import WarmupLinearSchedule
 from run_epoch import run_epoch
 
 args = get_args(argparse.ArgumentParser())
