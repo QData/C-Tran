@@ -8,7 +8,7 @@ Jack Lanchantin, Tianlu Wang, Vicente Ordóñez Román, Yanjun Qi<br/>
 
 Python version 3.7 is required and all major packages used and their versions are listed in `requirements.txt`.
 
-### COCO80 ###
+### C-Tran on COCO80 Dataset ###
 Download COCO data (19G)
 ```
 wget http://cs.virginia.edu/~jjl5sw/data/vision/coco.tar.gz
@@ -22,7 +22,7 @@ python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --datas
 ```
 
 
-### VOC20 ###
+### C-Tran on VOC20 Dataset ###
 Download VOC2007 data (1.7G)
 ```
 wget http://cs.virginia.edu/~jjl5sw/data/vision/voc.tar.gz
