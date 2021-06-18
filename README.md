@@ -1,6 +1,8 @@
 **General Multi-label Image Classification with Transformers**<br/>
 Jack Lanchantin, Tianlu Wang, Vicente Ordóñez Román, Yanjun Qi<br/>
-[Conference on Computer Vision and Pattern Recognition (CVPR) 2021](https://arxiv.org/abs/2011.14027)<br/>
+Conference on Computer Vision and Pattern Recognition (CVPR) 2021<br/>
+[[paper]](https://arxiv.org/abs/2011.14027) [[poster]](http://www.cs.virginia.edu/~jjl5sw/documents/ctran_poster.pdf) [[slides]](http://www.cs.virginia.edu/~jjl5sw/documents/ctran_slides.pdf)
+<br/>
 
 
 
