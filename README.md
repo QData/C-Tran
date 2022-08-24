@@ -13,7 +13,7 @@ Python version 3.7 is required and all major packages used and their versions ar
 ### C-Tran on COCO80 Dataset ###
 Download COCO data (19G)
 ```
-wget http://cs.virginia.edu/~jjl5sw/data/vision/coco.tar.gz
+wget http://cs.virginia.edu/yanjun/jack/vision/coco.tar.gz
 mkdir -p data/
 tar -xvf coco.tar.gz -C data/
 ```
@@ -27,7 +27,7 @@ python main.py  --batch_size 16  --lr 0.00001 --optim 'adam' --layers 3  --datas
 ### C-Tran on VOC20 Dataset ###
 Download VOC2007 data (1.7G)
 ```
-wget http://cs.virginia.edu/~jjl5sw/data/vision/voc.tar.gz
+wget http://cs.virginia.edu/yanjun/jack/vision/voc.tar.gz
 mkdir -p data/
 tar -xvf voc.tar.gz -C data/
 ```
